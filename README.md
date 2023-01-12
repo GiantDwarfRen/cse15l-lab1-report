@@ -1,1 +1,2 @@
-# cse15l-lab1-report
+# UCSD Remote Server Loggin Tutorial
+Read index.md file to get more info!
