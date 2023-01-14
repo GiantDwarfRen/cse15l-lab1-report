@@ -45,3 +45,8 @@ You can either use hot key "command + space", or little search icon on top right
 3. Follow steps on **Step 2: 3 ~ 5** to login through terminal.
 
 ![image](OSTerminal_login.png)
+
+## Step4: Disconnect Remote Server
+Very simle!. Type comman `exit` then you're good!
+
+![image](Loggout.png)
