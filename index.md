@@ -29,6 +29,19 @@ Install your VS Code at [VS Code](https://code.visualstudio.com/).
 3. Type in `ssh yourusername@igen6.ucsd.edu`
 4. Enter your password and, if there are promts showing up, choose all *yes*.
 5. Now you should successfully logged into remote server. Your terminal should notice like this:
-6. 
+
 ![image](Terminal_login.png)
 
+## Step3: Login Through Terminal (Mac OS)
+This step is similar to *Step 2*, but it's via *OS terminal*.
+
+1. Open "spotlight Search on your mac.
+You can either use hot key "command + space", or little search icon on top right of your menu bar ![image](Search_icon.png)
+
+2. Type in "terminal" to open terminal.
+
+![image](Search_terminal.png)
+
+3. Follow steps on **Step 2: 3 ~ 5** to login through terminal.
+
+![image](OSTerminal_login.png)
