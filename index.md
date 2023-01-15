@@ -57,7 +57,7 @@ You can either use hot key "command + space", or little search icon on top right
 
 3. `pwd` Print current working directory.
 
-![pwd](pwd/png)
+![pwd](pwd.png)
 
 4. `cd <path>` Change directory. Switch the current working directory to the given path.
 
