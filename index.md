@@ -46,7 +46,24 @@ You can either use hot key "command + space", or little search icon on top right
 
 ![image](OSTerminal_login.png)
 
-## Step4: Disconnect Remote Server
+## Step4: Try Some Bacis Command
+1. `cat <path1> <path2> ... ` Prints the *contents* of one or more files given by the paths.
+
+![Cat](Cat.png)
+
+2. `ls <path>` List the files and folders the given path. Add flag `-l` to get long list.
+
+![Ls](Ls.png)
+
+3. `pwd` Print current working directory.
+
+![pwd](pwd/png)
+
+4. `cd <path>` Change directory. Switch the current working directory to the given path.
+
+![cd](cd.png)
+
+## Step5: Disconnect Remote Server
 Very simle!. Type comman `exit` then you're good!
 
 ![image](Loggout.png)
